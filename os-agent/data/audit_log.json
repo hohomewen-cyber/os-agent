@@ -1,0 +1,38 @@
+[
+  {
+    "time": "10:15:33",
+    "stage": "执行命令",
+    "detail": "date",
+    "status": "success"
+  },
+  {
+    "time": "10:17:16",
+    "stage": "复杂任务步骤",
+    "detail": "第1步 cat > nonameguandao.c << 'EOF'\n#include <stdio.h>\n#include <",
+    "status": "success"
+  },
+  {
+    "time": "10:17:17",
+    "stage": "复杂任务步骤",
+    "detail": "第2步 gcc nonameguandao.c -o nonameguandao",
+    "status": "success"
+  },
+  {
+    "time": "10:17:18",
+    "stage": "复杂任务步骤",
+    "detail": "第3步 ./nonameguandao",
+    "status": "success"
+  },
+  {
+    "time": "10:21:52",
+    "stage": "复杂任务步骤",
+    "detail": "第1步 cat > nameguanread.c << 'EOF'\n#include <unistd.h>\n#include <",
+    "status": "success"
+  },
+  {
+    "time": "10:21:53",
+    "stage": "复杂任务步骤",
+    "detail": "第2步 gcc nameguanread.c -o nameguanread",
+    "status": "success"
+  }
+]

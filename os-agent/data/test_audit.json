@@ -1,0 +1,14 @@
+[
+  {
+    "time": "14:48:40",
+    "stage": "测试",
+    "detail": "第一条",
+    "status": "success"
+  },
+  {
+    "time": "14:48:40",
+    "stage": "测试",
+    "detail": "第二条",
+    "status": "warning"
+  }
+]
