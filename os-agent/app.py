@@ -10,7 +10,7 @@ from config import QWEN_MODEL
 from modules.audit_store import AuditLogStore, build_audit_entry
 from modules.c_executor import c_executor
 from modules.document_parser import DocumentParser
-# from modules.windows_terminal import terminal as win_terminal
+from modules.windows_terminal import terminal as win_terminal
 from executor import executor
 from agent import OSAgent
 from voice_input import transcribe_audio_bytes
